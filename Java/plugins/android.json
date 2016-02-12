@@ -1,0 +1,54 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.mata.bhupender"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.mata.bhupender"
+        },
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.mata.bhupender"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "com.mata.bhupender"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "com.mata.bhupender"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.mata.bhupender"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.mata.bhupender"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "com.mata.bhupender"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.mata.bhupender"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.mata.bhupender"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.mata.bhupender"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.mata.bhupender"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.mata.bhupender"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.mata.bhupender"
+        }
+    },
+    "dependent_plugins": {}
+}
